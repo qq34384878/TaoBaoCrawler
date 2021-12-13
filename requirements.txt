@@ -14,7 +14,7 @@ idna==2.6
 itsdangerous==0.24
 Jinja2==2.7.3
 kombu==3.0.30
-lxml==4.2.1
+lxml==4.6.5
 MarkupSafe==0.23
 pytz==2014.10
 redis==2.10.3
